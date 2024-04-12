@@ -26,10 +26,21 @@ You can access [here](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Rec
 For running the experiments on UCI-HAR, you need to first run preprocess_UCI_HAR.py to pre-process the dataset. After that, run main_cls.py
 
 ## ISRUC-S3
- 
+
 You can access [here](https://sleeptight.isr.uc.pt/), and download S3 and put the downloaded dataset into directory 'ISRUC'.
 
 For running the experiments on ISRUC-S3, you need to first run preprocess_ISRUC.py to pre-process the dataset. After that, run main_cls.py
+
+# Detailed Results on Additional Experiments
+
+## Additional Datasets
+![1712919860025](https://github.com/No1anony/K-Link/assets/166800884/acf12021-960b-4eed-8bfc-444060b45806)
+
+
+## Comparisons between BERT and GPT-2
+![1712919874603](https://github.com/No1anony/K-Link/assets/166800884/6a1cef48-991a-4f7b-8eae-de2f442e7ddf)
+
+
 
 # Acknowledgement
 
