@@ -11,7 +11,7 @@ You will need the following to run the above:
   
 # Dataset
 
-We use three datasets to evaluate our method, including C-MAPSS, UCI-HAR, and ISRUC-S3.
+We use three datasets to evaluate our method, including C-MAPSS, UCI-HAR, and ISRUC-S3 (Data cannot be uploaded due to data size problem, but we provide the below link for download).
 
 ## C-MAPSS
 
