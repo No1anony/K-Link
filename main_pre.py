@@ -285,7 +285,7 @@ class Train():
 if __name__ == '__main__':
     from args import args
 
-    seed_cus = 4
+    seed_cus = 0
     random.seed(seed_cus)
     np.random.seed(seed_cus)
     torch.manual_seed(seed_cus)
